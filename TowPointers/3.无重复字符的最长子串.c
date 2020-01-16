@@ -5,7 +5,7 @@
  */
 
 // @lc code=start
-
+// 12ms, 7.1MB
 
 int lengthOfLongestSubstring(char* s) {
     if(*s == '\0'){

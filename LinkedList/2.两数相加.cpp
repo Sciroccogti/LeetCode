@@ -5,6 +5,7 @@
  */
 
 // @lc code=start
+// 24ms, 10.7MB
 /**
  * Definition for singly-linked list.
  * struct ListNode {
