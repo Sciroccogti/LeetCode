@@ -32,3 +32,20 @@ int main() {
     q.emplace_back()
 }
 ```
+
+## math
+
+Python:
+```Python
+import math
+math.factorial(x)
+math.fsum([1, 2, 3, 4])
+math.gcd(x, y)
+math.log(x[, base])
+math.pi
+math.pow(x, y) # x^y
+```
+
+## debug
+
+If wrong output happens, try to find a simplest input data.
