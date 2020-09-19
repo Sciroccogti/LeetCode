@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "*.mcfunction": "mcfunction",
+        "map": "cpp"
+    }
+}
