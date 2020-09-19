@@ -41,9 +41,9 @@ class Solution {
         for (int i = 1; i < bit.size(); i++) {
             // overflow
             if (ret > INT32_MAX / 10 ||
-                (ret == INT32_MAX / 10 && bit[i] == 8) ||
+                (ret == INT32_MAX / 10 && bit[i] >= 8) ||
                 ret < -214748364 ||
-                (ret == -214748364 && bit[i] == 9)) {
+                (ret == -214748364 && bit[i] >= 9)) {
                 return 0;
             }
 
