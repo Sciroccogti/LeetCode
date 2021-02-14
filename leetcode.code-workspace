@@ -4,5 +4,12 @@
 			"path": "."
 		}
 	],
-	"settings": {}
+	"settings": {
+		"http.proxyStrictSSL": false,
+		"python.pythonPath": "C:\\Users\\zyf19\\AppData\\Local\\Microsoft\\WindowsApps\\python.exe",
+		"files.associations": {
+			"*.mcfunction": "mcfunction",
+			"list": "cpp"
+		}
+	}
 }

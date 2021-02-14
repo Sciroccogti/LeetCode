@@ -112,6 +112,15 @@ int main() {
 }
 ```
 
+### C++11
+
+```Cpp
+std::list data;
+for (auto const& i : data) {
+    std::cout << i.name;
+}
+```
+
 ## Python 基础
 
 （非必需）函数要在开头定义，并且加上函数注释：
